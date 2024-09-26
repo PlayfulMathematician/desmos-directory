@@ -1,2 +1,2 @@
-Tetrahedra: https://www.desmos.com/3d/utxusrwnnh
-Octahedra: https://www.desmos.com/3d/ig8caugzzs
+Tetrahedron: https://www.desmos.com/3d/utxusrwnnh
+Octahedron: https://www.desmos.com/3d/ig8caugzzs
