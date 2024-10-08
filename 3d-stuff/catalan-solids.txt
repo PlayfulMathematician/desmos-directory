@@ -1,3 +1,4 @@
 Tetrakis Cube: https://www.desmos.com/3d/lwhicrziew
 Rhombic Dodecahedron: https://www.desmos.com/3d/d2qzuwotpj
 Triakis Octahedron: https://www.desmos.com/3d/pzqc9ke9nd
+Triakis Tetrahedron: https://www.desmos.com/3d/hen8lzovvq
