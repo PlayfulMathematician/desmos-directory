@@ -1,2 +1,2 @@
 # desmos-directory
-a list of everything i ever made
+shapes and stuff (this is not all my desmos stuff)
